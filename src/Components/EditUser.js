@@ -18,7 +18,6 @@ class EditUser extends Component {
         });
     }
     render() {     
-        //console.log(this.state);
            
         return (                         
             <div className="col-12">
